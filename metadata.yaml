@@ -1,0 +1,39 @@
+_repo: Sous-d-humbles-toits_71054
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bachelin, Henri
+    birthdate: 1879
+    deathdate: 1941
+    gutenberg_agent_id: '56060'
+    url: http://www.gutenberg.org/2009/agents/56060
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henri_Bachelin
+    - https://fr.wikipedia.org/wiki/Henri_Bachelin
+description: ''
+gutenberg_issued: '2023-06-27'
+identifiers:
+  gutenberg: '71054'
+  lccn: '20011435'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9618894v
+pgterms:marc905: 20230621124917bachelin
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bÉditions de l''effort libre, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: A mon Père -- Ceux qui restent -- Chuchot -- Le père Lunettes --
+  Le Donjon -- La Cane -- Les Marius -- Le Tiercelet -- La Boîte de Dragées -- Poitreau
+  -- Vincent -- Le Déserteur -- La Nuit de la Toussaint -- Deux Frères -- La Gardeuse
+  de Chèvres -- Les Œufs de Pâques -- Ceux qui passent -- La Pièce fausse.
+title: Sous d'humbles toits
+url: http://www.gutenberg.org/ebooks/71054
